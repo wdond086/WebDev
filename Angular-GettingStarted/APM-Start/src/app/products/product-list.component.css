@@ -1,0 +1,23 @@
+h3 {
+    font-size: 1.5em;
+    padding-top: 0em;
+    margin: 0;
+    color: black;
+}
+
+.card-body {
+    display: inline-flex;
+}
+
+.card-body input {
+    float: left;
+}
+
+.card-body h5 {
+    margin-left: 4em;
+}
+
+.row h5 {
+    float: left;
+    margin-left: 6em;
+}
