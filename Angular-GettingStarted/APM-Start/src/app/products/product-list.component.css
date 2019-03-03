@@ -21,3 +21,7 @@ h3 {
     float: left;
     margin-left: 6em;
 }
+
+thead {
+    color: #337ab7
+}
